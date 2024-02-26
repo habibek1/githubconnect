@@ -7,12 +7,35 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		DCB9D6642B8CC20D006419A1 /* matrix_6_2.board in CopyFiles */ = {isa = PBXBuildFile; fileRef = DCB9D6612B8CC1E3006419A1 /* matrix_6_2.board */; };
+		DCB9D6652B8CC20D006419A1 /* matrix_7_5.board in CopyFiles */ = {isa = PBXBuildFile; fileRef = DCB9D65C2B8CC1E3006419A1 /* matrix_7_5.board */; };
+		DCB9D6662B8CC20D006419A1 /* matrix_9_3.board in CopyFiles */ = {isa = PBXBuildFile; fileRef = DCB9D65E2B8CC1E3006419A1 /* matrix_9_3.board */; };
+		DCB9D6672B8CC20D006419A1 /* matrix_12_4.board in CopyFiles */ = {isa = PBXBuildFile; fileRef = DCB9D65F2B8CC1E3006419A1 /* matrix_12_4.board */; };
+		DCB9D6682B8CC20D006419A1 /* matrix_18_8.board in CopyFiles */ = {isa = PBXBuildFile; fileRef = DCB9D65D2B8CC1E3006419A1 /* matrix_18_8.board */; };
+		DCB9D6692B8CC20D006419A1 /* matrix_20_4.board in CopyFiles */ = {isa = PBXBuildFile; fileRef = DCB9D6622B8CC1E3006419A1 /* matrix_20_4.board */; };
+		DCB9D66A2B8CC20D006419A1 /* matrix_50_10.board in CopyFiles */ = {isa = PBXBuildFile; fileRef = DCB9D6602B8CC1E3006419A1 /* matrix_50_10.board */; };
+		DCB9D66B2B8CC20D006419A1 /* matrix_4_2.board in CopyFiles */ = {isa = PBXBuildFile; fileRef = DCB9D6632B8CC204006419A1 /* matrix_4_2.board */; };
 		DCDB35DA2ADDBC110037E10E /* habibe.koseoglu_Koseoglu_Habibe_ hw1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = DCDB35D92ADDBC110037E10E /* habibe.koseoglu_Koseoglu_Habibe_ hw1.cpp */; };
-		DCDB35E32ADDBC740037E10E /* matrix_30_8.board in CopyFiles */ = {isa = PBXBuildFile; fileRef = DCDB35E02ADDBC3A0037E10E /* matrix_30_8.board */; };
-		DCDB35E42ADDBC780037E10E /* matrix_50_10.board in CopyFiles */ = {isa = PBXBuildFile; fileRef = DCDB35E12ADDBC460037E10E /* matrix_50_10.board */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
+		DCB9D65B2B8CC1C6006419A1 /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 7;
+			files = (
+				DCB9D6642B8CC20D006419A1 /* matrix_6_2.board in CopyFiles */,
+				DCB9D6652B8CC20D006419A1 /* matrix_7_5.board in CopyFiles */,
+				DCB9D6662B8CC20D006419A1 /* matrix_9_3.board in CopyFiles */,
+				DCB9D6672B8CC20D006419A1 /* matrix_12_4.board in CopyFiles */,
+				DCB9D6682B8CC20D006419A1 /* matrix_18_8.board in CopyFiles */,
+				DCB9D6692B8CC20D006419A1 /* matrix_20_4.board in CopyFiles */,
+				DCB9D66A2B8CC20D006419A1 /* matrix_50_10.board in CopyFiles */,
+				DCB9D66B2B8CC20D006419A1 /* matrix_4_2.board in CopyFiles */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		DCDB35D42ADDBC110037E10E /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
 			buildActionMask = 2147483647;
@@ -22,24 +45,19 @@
 			);
 			runOnlyForDeploymentPostprocessing = 1;
 		};
-		DCDB35E22ADDBC6B0037E10E /* CopyFiles */ = {
-			isa = PBXCopyFilesBuildPhase;
-			buildActionMask = 2147483647;
-			dstPath = "";
-			dstSubfolderSpec = 7;
-			files = (
-				DCDB35E42ADDBC780037E10E /* matrix_50_10.board in CopyFiles */,
-				DCDB35E32ADDBC740037E10E /* matrix_30_8.board in CopyFiles */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		DCB9D65C2B8CC1E3006419A1 /* matrix_7_5.board */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = matrix_7_5.board; path = "../../HW#1/matrix_7_5.board"; sourceTree = "<group>"; };
+		DCB9D65D2B8CC1E3006419A1 /* matrix_18_8.board */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = matrix_18_8.board; path = "../../HW#1/matrix_18_8.board"; sourceTree = "<group>"; };
+		DCB9D65E2B8CC1E3006419A1 /* matrix_9_3.board */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = matrix_9_3.board; path = "../../HW#1/matrix_9_3.board"; sourceTree = "<group>"; };
+		DCB9D65F2B8CC1E3006419A1 /* matrix_12_4.board */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = matrix_12_4.board; path = "../../HW#1/matrix_12_4.board"; sourceTree = "<group>"; };
+		DCB9D6602B8CC1E3006419A1 /* matrix_50_10.board */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = matrix_50_10.board; path = "../../HW#1/matrix_50_10.board"; sourceTree = "<group>"; };
+		DCB9D6612B8CC1E3006419A1 /* matrix_6_2.board */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = matrix_6_2.board; path = "../../HW#1/matrix_6_2.board"; sourceTree = "<group>"; };
+		DCB9D6622B8CC1E3006419A1 /* matrix_20_4.board */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = matrix_20_4.board; path = "../../HW#1/matrix_20_4.board"; sourceTree = "<group>"; };
+		DCB9D6632B8CC204006419A1 /* matrix_4_2.board */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = matrix_4_2.board; path = "../../HW#1/matrix_4_2.board"; sourceTree = "<group>"; };
 		DCDB35D62ADDBC110037E10E /* hw1testcs204 */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = hw1testcs204; sourceTree = BUILT_PRODUCTS_DIR; };
 		DCDB35D92ADDBC110037E10E /* habibe.koseoglu_Koseoglu_Habibe_ hw1.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "habibe.koseoglu_Koseoglu_Habibe_ hw1.cpp"; sourceTree = "<group>"; };
-		DCDB35E02ADDBC3A0037E10E /* matrix_30_8.board */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = matrix_30_8.board; path = "../../../HW#1/matrix_30_8.board"; sourceTree = "<group>"; };
-		DCDB35E12ADDBC460037E10E /* matrix_50_10.board */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = matrix_50_10.board; path = "../../../HW#1/matrix_50_10.board"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,8 +91,14 @@
 			isa = PBXGroup;
 			children = (
 				DCDB35D92ADDBC110037E10E /* habibe.koseoglu_Koseoglu_Habibe_ hw1.cpp */,
-				DCDB35E02ADDBC3A0037E10E /* matrix_30_8.board */,
-				DCDB35E12ADDBC460037E10E /* matrix_50_10.board */,
+				DCB9D6612B8CC1E3006419A1 /* matrix_6_2.board */,
+				DCB9D65C2B8CC1E3006419A1 /* matrix_7_5.board */,
+				DCB9D65E2B8CC1E3006419A1 /* matrix_9_3.board */,
+				DCB9D65F2B8CC1E3006419A1 /* matrix_12_4.board */,
+				DCB9D65D2B8CC1E3006419A1 /* matrix_18_8.board */,
+				DCB9D6622B8CC1E3006419A1 /* matrix_20_4.board */,
+				DCB9D6602B8CC1E3006419A1 /* matrix_50_10.board */,
+				DCB9D6632B8CC204006419A1 /* matrix_4_2.board */,
 			);
 			path = "habibe.koseoglu_Koseoglu_Habibe_ hw1";
 			sourceTree = "<group>";
@@ -89,7 +113,7 @@
 				DCDB35D22ADDBC110037E10E /* Sources */,
 				DCDB35D32ADDBC110037E10E /* Frameworks */,
 				DCDB35D42ADDBC110037E10E /* CopyFiles */,
-				DCDB35E22ADDBC6B0037E10E /* CopyFiles */,
+				DCB9D65B2B8CC1C6006419A1 /* CopyFiles */,
 			);
 			buildRules = (
 			);
